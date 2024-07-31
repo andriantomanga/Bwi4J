@@ -1,9 +1,13 @@
 # Bwi4j
 # Blacklisted Words Inspector For Java
 
+![Version](https://img.shields.io/badge/version-v1.0.0-green.svg)
+![Build Status](https://github.com/andriantomanga/Bwi4j/actions/workflows/main.yml/badge.svg)
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Bwi4j is a Java library that allows you to define and enforce rules on the names of classes, methods, and fields within specified packages. This can be useful for enforcing naming conventions or avoiding the use of certain prohibited terms in your codebase.
 
-Similar to ArchUnit, it is ideally used in a test file. It is useful, for example, to prevent contamination of the domain package in a Hexagonal architecture.
+Similar to ArchUnit, it is ideally used in a test file. It is useful, for example, to prevent contamination of the domain package in a `Hexagonal architecture`.
 
 ## Usage example
 

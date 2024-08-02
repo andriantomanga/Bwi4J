@@ -48,3 +48,7 @@ If you want a particular element (a class, method, or field) to be ignored by th
     }
 ```
 
+## Examples
+
+For mor examples, please refer to the [Examples repo](https://github.com/andriantomanga/Bwi4J-examples).
+

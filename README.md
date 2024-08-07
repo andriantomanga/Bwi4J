@@ -37,7 +37,7 @@ public class Bwi4jExamplesTest {
 
 ## The exception that proves the rule
 
-If you want a particular element (a class, method, or field) to be ignored by the Bwi4J scanner, simply annotate it with the `@BwiIgnore` annotation.
+If you want a particular element (a class, a method or a field) to be ignored by the Bwi4J scanner, simply annotate it with the `@BwiIgnore` annotation.
 
 ```java
     @BwiIgnore
@@ -50,5 +50,5 @@ If you want a particular element (a class, method, or field) to be ignored by th
 
 ## Examples
 
-For mor examples, please refer to the [Examples repo](https://github.com/andriantomanga/Bwi4J-examples).
+For more examples, please refer to the [Examples repo](https://github.com/andriantomanga/Bwi4J-examples).
 
